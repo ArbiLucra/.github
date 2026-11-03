@@ -2,7 +2,7 @@
 
 A ArbiLucra está em desenvolvimento para apoiar a análise de oportunidades de arbitragem entre corretoras de criptoativos, considerando custos, liquidez e riscos envolvidos em cada rota.
 
-Nosso ponto de partida é tornar oportunidades e limites compreensíveis, com evolução incremental e validação antes de ampliar o escopo. A fundação atual é documental; não há produto público disponível ou rentabilidade demonstrada por estes materiais.
+A direção do produto é reunir a análise de oportunidades, a configuração e o acompanhamento de operações simuladas em uma interface única. O objetivo é tornar os custos e limites compreensíveis antes de ampliar o escopo. Não anunciamos um produto público disponível nem rentabilidade demonstrada.
 
 Arbitragem envolve riscos, custos e condições que podem mudar durante uma operação. A apresentação de uma oportunidade não garante sua execução ou retorno.
 
