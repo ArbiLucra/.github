@@ -2,7 +2,7 @@
 
 Documentação pública e orientações de colaboração da ArbiLucra, uma iniciativa em desenvolvimento para apoiar a análise de oportunidades de arbitragem entre corretoras de criptoativos e a compreensão dos custos e riscos envolvidos.
 
-Esta etapa estabelece a base documental. Não há produto público disponível ou resultados de rentabilidade demonstrados por este repositório.
+Este repositório reúne os materiais públicos. A direção do produto é oferecer uma interface única para avaliar oportunidades e acompanhar operações simuladas. Não há anúncio de produto público disponível nem resultado de rentabilidade demonstrado.
 
 - [Apresentação da organização](profile/README.md).
 - [Como contribuir](CONTRIBUTING.md).

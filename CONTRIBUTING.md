@@ -1,6 +1,6 @@
 # Como contribuir
 
-Este repositório recebe mudanças nos materiais públicos e nos templates de colaboração da ArbiLucra. O produto está em desenvolvimento; a etapa atual é documental.
+Este repositório recebe mudanças nos materiais públicos e nos templates de colaboração da ArbiLucra. O produto está em desenvolvimento; neste repositório as contribuições são documentais.
 
 Antes de propor uma mudança, leia o [README](README.md), as [instruções locais](AGENTS.md) e o documento afetado. Preserve alterações já presentes no seu clone e mantenha a proposta limitada ao objetivo descrito.
 
